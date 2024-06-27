@@ -1,0 +1,44 @@
+Aisle No,Aisle Name,ItemId,itemName,quantity,thresholdQuantity,Expiryyear,ExpiryMonth,Expiry Date
+1,Dairy,101,Milk,20,2,2024,3,13
+1,Dairy,102,cheese,25,2,2024,3,12
+1,Dairy,103,butter,28,12,2024,4,1
+1,Dairy,105,fresh cream,10,1,2024,2,8
+1,Dairy,106,yogurt,12,6,2026,1,1
+1,Dairy,107,icecream,100,20,2024,2,10
+1,Dairy,108,eggs,500,100,2024,2,14
+2,Pulses and Grains,201,dal,300,20,2024,7,20
+2,Pulses and Grains,202,Rice,200,25,2024,2,10
+2,Pulses and Grains,203,Lentils,38,10,2024,3,20
+2,Pulses and Grains,204,Quinoa,67,15,2024,4,30
+2,Pulses and Grains,206,Oats,78,20,2024,6,5
+2,Pulses and Grains,207,Chickpeas,26,25,2024,2,10
+2,Pulses and Grains,208,Barley,12,20,2024,7,15
+2,Pulses and Grains,209,Wheat Flour,99,30,2024,1,20
+2,Pulses and Grains,210,Cornmeal,66,10,2024,10,25
+3,Bath and Cleaning products,301,Mop,50,20,2024,7,8
+3,Bath and Cleaning products,302,Toilet Paper,37,20,2024,7,18
+3,Bath and Cleaning products,303,Soap,82,10,2024,11,5
+3,Bath and Cleaning products,304,Shampoo,65,20,2024,3,29
+3,Bath and Cleaning products,305,Toothpaste,49,30,2024,9,12
+3,Bath and Cleaning products,306,Dish Soap,71,20,2024,5,23
+3,Bath and Cleaning products,307,Laundry Detergent,23,20,2024,12,7
+3,Bath and Cleaning products,309,Glass Cleaner,96,20,2024,8,14
+3,Bath and Cleaning products,310,All-Purpose Cleaner,58,20,2024,2,30
+4,Ready to eat,402,chips,200,120,2024,3,26
+4,Ready to eat,403,instant Noodles,200,15,2025,1,2
+4,Ready to eat,404,Microwave Popcorn,38,20,2024,12,29
+4,Ready to eat,405,Canned Soup,67,25,2024,12,28
+4,Ready to eat,406,Frozen Pizza,78,20,2024,3,16
+4,Ready to eat,407,Granola Bars,26,30,2024,5,5
+4,Ready to eat,408,Trail Mix,12,10,2024,3,19
+4,Ready to eat,410,Cereal Bars,99,20,2024,11,12
+4,Ready to eat,411,Ready-to-eat Salads,66,20,2024,3,23
+5,vegetables,501,LadyFinger,200,20,2024,2,12
+5,vegetables,502,Tomato,96,10,2024,2,20
+5,vegetables,503,Potato,58,20,2024,4,30
+5,vegetables,504,Onion,50,20,2024,6,5
+5,vegetables,505,Carrot,200,10,2024,2,10
+5,vegetables,506,Bell Pepper,200,20,2024,7,15
+5,vegetables,507,Cucumber,38,30,2024,1,20
+5,vegetables,508,Lettuce,67,20,2024,10,25
+5,vegetables,509,Spinach,78,20,2024,7,8

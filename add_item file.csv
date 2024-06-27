@@ -1,0 +1,11 @@
+Aisle No,Aisle Name,Item Id,Item Name,Quantity,ThresholdQuantity,Expiryyear,ExpiryMonth,Expiry Date
+1,Dairy,109,Condensed Milk,40,15,2024,7,28
+1,Dairy,104,Whipped Cream,30,12,2024,6,7
+2,Pulses and grains,205,Yellow peas,50,15,2024,5,3
+2,Pulses and grains,211,Soyabeans,48,14,2024,3,19
+3,Bath & cleaning products,308,Body wash,60,15,2024,4,17
+3,Bath & cleaning products,311,Face wash,50,12,2024,7,22
+4,Ready to eat,409,Maggie,70,20,2024,6,14
+4,Ready to eat,401,Pasta,60,23,2024,8,1
+5,Vegetables,510,Fenugreek,30,5,2024,3,10
+5,Vegetables,500,Red Capsicum,20,7,2024,11,27

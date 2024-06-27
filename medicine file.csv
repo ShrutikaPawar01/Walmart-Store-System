@@ -1,0 +1,6 @@
+Aisle No,Aisle Name,ItemId,itemName,quantity,thresholdQuantity,Expiryyear,ExpiryMonth,Expiry Date
+7,Medicine Section,701,Crocin tablet,20,7,2024,3,25
+7,Medicine Section,702,Wikoryl tablet,30,17,2025,9,20
+7,Medicine Section,703,Benadryl syrup,25,6,2024,11,27
+7,Medicine Section,704,Zytee,15,5,2026,6,12
+7,Medicine Section,705,Soframycin,24,9,2024,8,2

@@ -1,0 +1,5 @@
+Aisle No,Aisle Name,ItemId,itemName,quantity,thresholdQuantity,Expiryyear,ExpiryMonth,Expiry Date
+6,Pets Section,601,Pedigree Food,40,15,2024,11,21
+6,Pets Section,602,Bowls and feeders,35,10,2025,9,2
+6,Pets Section,603,Toys,25,8,2026,7,17
+6,Pets Section,605,Collars and Leashes,38,12,2026,4,26
